@@ -1,6 +1,6 @@
 name: brianwyrick
 favicon: null
-layout_spectrum: 0.8310183256398886
+layout_spectrum: 0.79107
 typography_spectrum: 0.2448723311536014
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.5180709527339786
-  lightness: 0.6957208369858563
-  saturation: 0.8391750215087086
-  rhythmicContrast: 0.3905759225599468
+  brandStrength: 0.5
+  lightness: 0.25
+  saturation: 0.625
+  rhythmicContrast: 0.25
 purpose: []
